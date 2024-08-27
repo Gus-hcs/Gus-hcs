@@ -1,8 +1,11 @@
-# Olá! Eu sou Gustavo Souza 👋 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-hcs/)
+# Olá! Eu sou Gustavo Souza 👋 
+______________________________________________________________________________________________________________________________________________________________
 
 - 🌟 Atualmente trabalho como Analista de Dados Pleno
 - 📚 Estudando: Novas tecnologias e melhores práticas em análise de dados
 - 💡 Fato curioso: Apaixonado por tecnologia e por aprender cada vez mais sobre esse mundo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-hcs/)
 
 ## Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gus-hcs&layout=compact&theme=dark&v=3)
