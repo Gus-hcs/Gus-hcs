@@ -1,6 +1,6 @@
 # Olá! Eu sou Gustavo Souza 👋 
 
-- 🌟 Atualmente trabalho como Analista de Dados Pleno
+- 🌟 Atualmente trabalho como Analista de Dados
 - 📚 Estudando: Novas tecnologias e melhores práticas em análise de dados
 - 💡 Fato curioso: Apaixonado por tecnologia e por aprender cada vez mais sobre esse mundo
 
